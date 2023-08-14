@@ -1,0 +1,12 @@
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\bin\Debug\net7.0\Bulk.DataAccess.deps.json
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\bin\Debug\net7.0\Bulk.DataAccess.dll
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\bin\Debug\net7.0\Bulk.DataAccess.pdb
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.AssemblyInfo.cs
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.dll
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\refint\Bulk.DataAccess.dll
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\Bulk.DataAccess.pdb
+C:\Users\Berk\Desktop\proje\BulkWeb\Bulk.DataAccess\obj\Debug\net7.0\ref\Bulk.DataAccess.dll
